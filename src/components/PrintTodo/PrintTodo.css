@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    text-align:left;
+}
+
+li input{
+    float:left;
+}
+
+li{
+    margin-bottom:10px;
+}
+
+
+p{
+    display:inline;
+    margin-left:10px;
+}
+
+
+.done{
+    text-decoration: line-through;
+}
